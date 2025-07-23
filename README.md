@@ -10,12 +10,13 @@ Telefone: (51) 98549-6486 |
 GitHub: https://github.com/FilipeFaveroGuilardi 
 
 **Stack:**  
-Java, JavaScript | Spring, Spring Boot | Hibernate, JPA | MySQL, SQL | HTML, CSS
+Java, JavaScript | Git, Github | Spring, Spring Boot | Hibernate, JPA | MySQL, SQL | HTML, CSS
 
 ---
 
 ## Habilidades Técnicas:
 - Desenvolvimento de APIs com Java e Spring Boot
+- Versionamento com Git e Github
 - Autenticação e autorização com JWT
 - Manipulação de banco de dados com Hibernate e Spring JPA
 - Experiência com banco de dados MySQL
