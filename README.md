@@ -4,7 +4,10 @@
 
 **Nome:** Filipe Favero Guilardi
 
-**Formas de contato:**  Email: filipefaveroguilardi@gmail.com | Telefone: (51) 98549-6486 | [GitHub](https://github.com/FilipeFaveroGuilardi)
+**Formas de contato:**  
+Email: filipefaveroguilardi@gmail.com  | 
+Telefone: (51) 98549-6486 | 
+GitHub: https://github.com/FilipeFaveroGuilardi 
 
 **Stack:**  
 Java, JavaScript | Spring, Spring Boot | Hibernate, JPA | MySQL, SQL | HTML, CSS
