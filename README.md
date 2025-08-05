@@ -26,7 +26,7 @@ Java, JavaScript | Git, Github | Spring, Spring Boot | Hibernate, JPA | MySQL, S
 
 ## Projetos:
 
-### [Controlador de gastos](https://github.com/FilipeFaveroGuilardi/expense-tracker-api)
+### Controlador de gastos - https://github.com/FilipeFaveroGuilardi/expense-tracker-api
 Neste projeto pessoal, desenvolvi uma solução para rastrear despesas. Utilizei Spring Boot e MySQL, implementando posteriormente Docker para gerenciar o banco de dados. Também implementei autenticação com JWT para segurança da aplicação. Criei filtros para as requisições, que retornam as despesas em um intervalo de tempo determinado. Sem dúvidas, a parte mais interessante e desafiadora foi trabalhar com Docker, pois me ajudou a integrar duas aplicações em um projeto mais recente, fazendo com que elas trabalhassem juntas.
 
 ---
